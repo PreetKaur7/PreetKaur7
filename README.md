@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Preet Kaur</h1>
+
+<h1 align="center">Hi there 👋, I'm Preet Kaur</h1>
+
+<p align="center">
+  <img src="Animation%20-%201750361190553.gif" width="200" alt="Hi Animation" />
+</p>
+
 <h3 align="center">Aspiring Data Enthusiast | Analytics | Visual Storyteller</h3>
 
 <p align="center">
