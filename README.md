@@ -8,7 +8,7 @@
 <h3 align="center">Aspiring Data Enthusiast | Analytics | Visual Storyteller</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=450&lines=Data+is+the+new+oil.;I+analyze+it%2C+visualize+it%2C+and+storytell+it." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76C6C&center=true&vCenter=true&width=700&lines=Data+is+the+new+oil.;I+Analyze+it%2C+visualize+it%2C+and+storytell+it." />
 </p>
 
 ---
